@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moyo
 - 👀 I’m interested in data science and artificial intelligence
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I have a mechanical engineering degree
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: Send me a message on LinkedIn [https://www.linkedin.com/in/moyo-monsuru-oke/]
 
