@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moyo
 - 👀 I’m interested in the creating data-driven solutions
-- 🌱 I have a mechanical engineering degree
-- 💞️ I’m looking to collaborate on interesting data projects
+- 👨‍🎓 I have a mechanical engineering degree
+- 👨‍💻 I’m looking to collaborate on interesting data projects
 - 📫 How to reach me: Send me a message on LinkedIn [https://www.linkedin.com/in/moyo-monsuru-oke/]
 
 <!---
