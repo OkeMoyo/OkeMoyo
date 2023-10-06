@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moyo
 - 👀 I’m interested in the creating data-driven solutions to develop sustainable energy systems and fight climate change
 - 👨‍🎓 I have a mechanical engineering degree
-- 👨‍💻 I’m looking to collaborate on interesting data projects
+- 👨‍💻 I’m looking to collaborate on clean energy and climate action data projects
 - 📫 How to reach me: Send me a message on LinkedIn [https://www.linkedin.com/in/moyo-monsuru-oke/] or Twitter [https://twitter.com/okemoyo]
 
 <!---
